@@ -1,0 +1,14 @@
+{
+  "name": "inotebook",
+  "version": "1.0.0",
+  "description": "iNotebook- Your online notebook anywhere anytime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.4"
+  }
+}
